@@ -1,3 +1,4 @@
+#Tik20180614 更新依赖后的Dagger2示例
 # Sample_dagger2
 
 Dagger2使用Sample
